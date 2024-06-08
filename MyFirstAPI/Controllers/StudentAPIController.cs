@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using MyFirstAPI.Models;
 
 namespace MyFirstAPI.Controllers
-{
+{   //Curd  Api Project Dot net 6 
     [Route("api/[controller]")]
     [ApiController]
     public class StudentAPIController : ControllerBase
